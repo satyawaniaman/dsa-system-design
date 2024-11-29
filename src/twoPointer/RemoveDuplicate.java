@@ -2,10 +2,10 @@ package twoPointer;
 public class RemoveDuplicate {
     public static int removeDuplicates(int[] arr){
         int idx=1;
-        for (int i = 1; i < arr.length; i++) {
-            if(arr[i]!=arr[i-1]){
-                arr[idx]=arr[i];
-                idx++;
+        for (int i = 1; i < arr.length ; i++) {
+            if(arr[i-1]!=arr[i]){
+                 arr[idx]=arr[i];
+                 idx++;
             }
         }
         return idx;

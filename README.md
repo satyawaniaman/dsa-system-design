@@ -11,4 +11,10 @@
 4.  Boats to save people - https://leetcode.com/problems/boats-to-save-people/description/
 5.  Next Permutation - https://leetcode.com/problems/next-permutation/description/
 ## Strings
-1. 
+1. Largest Odd Number - https://leetcode.com/problems/largest-odd-number-in-string/description/
+2. Max Length Between Two Characters - https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/
+3. Palindrome - 
+4. Replace Ascii -
+5. Reverse Word - https://leetcode.com/problems/reverse-words-in-a-string/description/
+6. Sub string -
+7. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/description/
